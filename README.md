@@ -3,6 +3,10 @@
 Kernel root for the TCL Flip 3 (Gflip7_VZW / T435S, kernel
 4.9.277-perf+, armv7)
 
+Based on [CVE-2026-43499](https://www.cve.org/CVERecord?id=CVE-2026-43499)
+
+Use this at your own risk
+
 ### Requirements
 
 `adb shell` access, which can be achieved with jscalated on KaiOS 3.0 devices
