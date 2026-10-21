@@ -50,7 +50,7 @@ make TOOLCHAIN=$ANDROID_NDK_HOME/toolchains/llvm/prebuilt/linux-x86_64
 
 I used a lot of projects as reference material for this.
 
-* [hazel-cve-2026-43499/tree/main](https://github.com/dorlow/hazel-cve-2026-43499/tree/main)
+* [hazel-cve-2026-43499](https://github.com/dorlow/hazel-cve-2026-43499/tree/main)
   The biggest help. ARM32 Linux 4.9, Fire TV
 * [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
   First PoC as far as I could tell
